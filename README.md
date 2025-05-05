@@ -1,6 +1,6 @@
 # Deneme
 
-## ALt Baslik
+## Alt Baslik
 mnbvxcmvbm
 xcbnmnxbcm
 xmcbvmnx
