@@ -1,4 +1,4 @@
-# 🌐 Google Anasayfa Klonu (2024) | Google Homepage Clone (2024)
+# 🌐 Google Anasayfa Klonu  | Google Homepage Clone 
 
 Bu proje, **Kodluyoruz Front-End Eğitimi** kapsamında HTML ve CSS bilgilerini pekiştirmek amacıyla hazırlanmıştır.  
 Modern Google anasayfasının görsel klonudur.  
